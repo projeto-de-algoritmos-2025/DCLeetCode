@@ -16,32 +16,32 @@ Este repositório tem como objetivo a resolução de exercícios sobre divisão 
 
 |Exercício | Dificuldade |
 | -- | -- |
-|[]()|🔴 Difícil|
-|[]()|🔴 Difícil|
-|[]()|🔴 Difícil|
+|[23](https://leetcode.com/problems/merge-k-sorted-lists/description/)|🔴 Difícil|
+|[295](https://leetcode.com/problems/find-median-from-data-stream/description/)|🔴 Difícil|
+|[493](https://leetcode.com/problems/reverse-pairs/description/)|🔴 Difícil|
 
 ## Screenshots
 
-### Exercício 1 - []()
+### Exercício 1 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
-![]()
+![](prints/23.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [23](https://leetcode.com/problems/merge-k-sorted-lists/description/) <br>
+- [Resposta](questoes/leetcode_23.cpp) <br>
 
-### Exerício 2 - []()
+### Exerício 2 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
-![]()
+![](prints/295.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [295](https://leetcode.com/problems/find-median-from-data-stream/description/) <br>
+- [Resposta](questoes/leetcode_295.cpp) <br>
 
-### Exercício 3 - []()
+### Exercício 3 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
 
-![]()
+![](prints/493.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [493](https://leetcode.com/problems/reverse-pairs/description/) <br>
+- [Resposta](questoes/leetcode_493.cpp) <br>
 
 ## Instalação 
 **Linguagem**: C++
