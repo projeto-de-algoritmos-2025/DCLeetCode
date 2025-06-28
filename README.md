@@ -4,7 +4,7 @@
 
 - **Número da Lista**: 4 <br>
 - **Conteúdo da Disciplina**: Dividir e Conquistar <br>
-- [**Vídeo da Apresentação**]() <br>
+- [**Vídeo da Apresentação**](https://youtu.be/xQ6e-TBQOl0) <br>
 
 ## Alunos
 |Matrícula | Aluno |GitHub|
@@ -81,4 +81,4 @@ Para cada código, deve-se:
 - 8: Clicar em ```Submit``` para receber o resultado de aprovação do código.
   
 ## Vídeo da Apresentação
-Acesse o vídeo de explicação das resoluções [clicando aqui]().
+Acesse o vídeo de explicação das resoluções [clicando aqui](https://youtu.be/xQ6e-TBQOl0).
