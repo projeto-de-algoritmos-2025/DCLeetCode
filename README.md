@@ -1,5 +1,6 @@
 # DCLeetCode
-# Exercícios LeetCode
+
+# Aplicação Par de Pontos mais próximos + Exercícios LeetCode
 
 - **Número da Lista**: 4 <br>
 - **Conteúdo da Disciplina**: Dividir e Conquistar <br>
@@ -12,7 +13,25 @@
 | 23/1011426  | Gustavo Gontijo Lima |[Guga301104](https://github.com/guga301104)|
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre divisão e conquista do [LeetCode](https://leetcode.com/), utilizando o conteúdo de Dividir e Conquistar da disciplina Projeto de Algoritmos, sendo 3 de nível difícil. Além disso o desenvolvimento de uma pequena aplicação utilizando um dos algoritmos estudados.
+Este repositório tem como objetivo a criação de uma aplicação que utiliza o algoritmo de dividir e conquistar para encontrar o par de pontos mais próximos, além da resolução de exercícios sobre divisão e conquista do [LeetCode](https://leetcode.com/), utilizando o conteúdo de Dividir e Conquistar da disciplina Projeto de Algoritmos, sendo 3 de nível difícil. Além disso o desenvolvimento de uma pequena aplicação utilizando um dos algoritmos estudados.
+
+
+## Par de Pontos Mais Próximos - Aplicação
+Certifique-se de ter o `make` e `python3` instalados 
+
+```bash
+git clone https://github.com/projeto-de-algoritmos-2025/DCLeetCode.git
+make run
+```
+
+Após isso, a aplicação estará disponível em ```http://localhost:8000```
+
+![](prints/par-de-pontos.png)
+
+**Caso queira acessar diretamente pelo deploy, basta [clicar aqui](https://projeto-de-algoritmos-2025.github.io/DCLeetCode/).**
+
+
+## Exercícios LeetCode
 
 |Exercício | Dificuldade |
 | -- | -- |
